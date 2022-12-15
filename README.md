@@ -8,6 +8,6 @@ https://www.overleaf.com/read/fhdvfpwshqqs
 - [X] justificativa
 - [X] objetivo
 - [X] problema
-- [ ] revisão bibliográfica
+- [x] revisão bibliográfica
 - [X] metodologia
 - [X] cronograma
