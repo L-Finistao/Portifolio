@@ -44,3 +44,6 @@ Durante o desenvolvimento do projeto, adotei as seguintes etapas:
 Resumindo, descrevi a metodologia e os materiais utilizados no meu projeto de desenvolvimento de um goleiro robô, abordando desde a análise dos resultados até os testes finais. Apresentei informações sobre os
 
  motores de passo, sensores ultrassônicos, LEDs e minha escolha entre visão computacional e sensores ultrassônicos. Meu objetivo foi contribuir para a propagação da tecnologia robótica e o avanço das possibilidades na área de automação e inteligência artificial.
+
+
+[Mapa Mental](Mapa Mental FinisGOL.pdf)
