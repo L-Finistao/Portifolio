@@ -46,5 +46,5 @@ Resumindo, descrevi a metodologia e os materiais utilizados no meu projeto de de
  motores de passo, sensores ultrassônicos, LEDs e minha escolha entre visão computacional e sensores ultrassônicos. Meu objetivo foi contribuir para a propagação da tecnologia robótica e o avanço das possibilidades na área de automação e inteligência artificial.
 
 
-<iframe src="/MapaMental.pdf" width="100%" height="600px"></iframe>
+[Mapa Mental](/MapaMental.pdf)
 
